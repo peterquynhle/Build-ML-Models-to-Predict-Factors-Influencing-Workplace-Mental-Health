@@ -1,5 +1,5 @@
-Business problem/questions:
-	- How to Improve worker's experience in a tech workplace.
+Business problem/question:
+	- How to Improve worker's experience in a tech workplace?
 
 Objective:
 	- Build and evaluate various ML models to predict factors important to mental health in workplace
