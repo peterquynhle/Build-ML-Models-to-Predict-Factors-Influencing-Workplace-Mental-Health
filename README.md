@@ -1,5 +1,3 @@
-This project is to build ML models to find important predictors of mental health illness in workplace
-
 Business problem/questions:
 	- How to Improve worker's experience in a tech workplace.
 
